@@ -1,56 +1,112 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+collection: "nav"
 ---
+<img src="/files/gallery/0_Banner.png" alt="some cool pic" style="max-width:100%; height:auto;">
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+We study how glial cells and their networks keep the brain healthy—and what happens when these systems break down in development, aging, and inflammation. Right now, we are investigating how white matter dynamics shape glial function in preclinical models of multiple sclerosis. Combining neuroimaging, digital histopathology, and spatial omics, and to perform cross-species comparisons, we aim to uncover the mechanisms that drive myelin damage and repair, paving the way for better diagnosis and treatment of brain disorders.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+<h2>Art of Science</h2>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<div class="my-gallery">
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+  <a href="/files/gallery/3_NINDS3.png" 
+     data-pswp-width="800" 
+     data-pswp-height="800" 
+     data-caption="caption">
+    <img src="/files/gallery/3_NINDS3.png" alt="A starry beach within — the marmoset hippocampus, where astrocytes (gold) shimmer like stars over a sandy shore, and myelin waves (blue) ripple through the sea of memory.">
+  </a>
+  
+  <a href="/files/gallery/4_NINDS4.png" 
+     data-pswp-width="800" 
+     data-pswp-height="800" 
+     data-caption="caption">
+    <img src="/files/gallery/4_NINDS4.png" alt="A universe of renewal — In the marmoset optic nerve, lysosomes swirl like dying stars, breaking down remnants to clear the old for new.">
+  </a>
+  
+  
+  <a href="/files/gallery/1_NINDS.png" 
+     data-pswp-width="800" 
+     data-pswp-height="800" 
+     data-caption="caption">
+    <img src="/files/gallery/1_NINDS.png" 
+         alt="An ancient Chinese character meets American pop art, by way of single cells — A 13th-century BC oracle bone script of a pig (upper left) gradually transformed into the modern Chinese pictogram 豕 (shǐ) (bottom right), a homonym of “history.” Strikingly, its form echoes a contemporary portrait of 250,000 marmoset neurons (bottom left), mapped by single-nucleus RNA sequencing and distilled through a dimension-reduction algorithm (UMAP). Across millennia, language and biology converge in a shared visual rhyme — from oracle bones to single cells..
+">
+  </a>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+  <a href="/files/gallery/2_NINDS2.png" 
+     data-pswp-width="820" 
+     data-pswp-height="447" 
+     data-caption="caption">
+    <img src="/files/gallery/2_NINDS2.png" alt="Marmoset brain with multiple sclerosis–like lesions in the white matter, visualized by RNA abundance (left) and RNA similarity (right). The mirrored pattern resembles the face of a wild boar, where the lesions appear as eyes, the caudate as the nose, and the hippocampus as the mouth.">
+  </a>
+  
+  <a href="/files/gallery/7_NINDS7.png" 
+     data-pswp-width="800" 
+     data-pswp-height="800" 
+     data-caption="caption">
+    <img src="/files/gallery/7_NINDS7.png" alt="">
+  </a>
+  <a href="/files/gallery/5_NINDS5.png" 
+     data-pswp-width="800" 
+     data-pswp-height="800" 
+     data-caption="caption">
+    <img src="/files/gallery/5_NINDS5.png" alt="Manuscripts of the cell — In cancer nuclei (blue), nuclear speckles (magenta) glow as scribes of pre-mRNA, drafting and redrafting the script of life.">
+  </a>
+ 
+  <a href="/files/gallery/6_NINDS6.png" 
+     data-pswp-width="800" 
+     data-pswp-height="800" 
+     data-caption="caption">
+    <img src="/files/gallery/6_NINDS6.png" alt="Astrocytes flare in gold around inflammed blood vessels, resembling meteors carving paths across a starry night sky of nuclei.">
+  </a>
+  
 
-**Markdown generator**
+  
+</div>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<!-- PhotoSwipe v5 core + lightbox -->
+<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
+<link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<script type="module">
+  import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.js';
+  import PhotoSwipeDynamicCaption from 'https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.esm.js';
+
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: '.my-gallery',
+    children: 'a',
+    pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js')
+  });
+
+  // Attach caption plugin
+  const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
+    type: 'auto',  // auto: prefers data-caption, fallback to alt
+    captionContent: (slide) => slide.data.caption || slide.data.alt
+  });
+
+  lightbox.init();
+</script>
+
+
+<h2> 
+	gLINa Lab footprint ...
+		<i class="fa-solid fa-shoe-prints">...</i>
+
+</h2>
+
+
+
+<iframe 
+  src="/footprint/map.html" 
+  style="border:none; width:100%; height:600px;">
+</iframe>
+
+

@@ -1,18 +1,29 @@
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
+  
+  <!-- Avatar with hover -->
 
-  <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
+<div class="author__avatar avatar-hover">
+  {% if author.avatar contains "://" %}
+    <img src="{{ author.avatar }}" alt="{{ author.name }}" class="default" fetchpriority="high" />
+    {% if author.avatar_hover %}
+      <img src="{{ author.avatar_hover }}" alt="{{ author.name }}" class="hover" fetchpriority="high" />
     {% endif %}
-  </div>
+  {% else %}
+    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" class="default" fetchpriority="high" />
+    {% if author.avatar_hover %}
+      <img src="{{ author.avatar_hover | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" class="hover" fetchpriority="high" />
+    {% endif %}
+  {% endif %}
+</div>
+
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
@@ -36,6 +47,15 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+
+{% if author.cv %}
+  <li>
+    <a href="{{ author.cv }}" target="_blank">
+      <i class="far fa-file fa-fw icon-pad-right" aria-hidden="true"></i>Jing-Ping Lin CV
+    </a>
+  </li>
+{% endif %}
+
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
@@ -164,7 +184,8 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}  
+
     </ul>
   </div>
 </div>
