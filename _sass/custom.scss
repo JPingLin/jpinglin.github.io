@@ -34,7 +34,7 @@
   display: flex;             /* layout image + text side by side */
   align-items: center;       /* vertically align image & text */
   gap: 20px;                 /* space between image and text */
-  max-width: 100%;           /* prevent overflow outside content */
+  max-width: 180px;           /* prevent overflow outside content */
 }
 
 /* Text column */
