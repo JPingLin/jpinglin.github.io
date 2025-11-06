@@ -17,8 +17,11 @@ author_profile: true
 # Ongoing Projects
 ---
 
-Building on my previous findings, my research program aims to systematically map the spatiotemporal dynamics of myelin turnover and neuroglial networks. My overarching goal is to uncover the root causes
-of brain myelinopathy and translate these insights into diagnostic and therapeutic advancements. To achieve this, I will investigate the molecular and cellular architecture of brain regions, with a particular emphasis on white matter (WM) integrity. At the core of my approach is the concept of the microenvironment—recognizing that no cell operates in isolation within the brain.Within this framework, my research will focus on the following key areas:
+Building on previous findings, we aim to systematically map the spatiotemporal dynamics of myelin turnover and neuroglial networks. Our goal is to uncover the root causes of brain myelinopathy and translate these insights into diagnostic and therapeutic advancements. 
+
+To achieve this, we will investigate the molecular and cellular architecture of brain regions, with a particular emphasis on white matter (WM) integrity. At the core of our approach is the concept of the microenvironment, recognizing that no cell operates in isolation within the brain. 
+
+Within this framework, we will focus on the following key areas:
 
 ### @ Developmental and aging-associated WM decay
 How can we establish a comprehensive framework for evaluating WM health? Additionally, how can we design strategies to effectively monitor and reverse its decline?
