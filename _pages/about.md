@@ -76,19 +76,21 @@ We study how glial cells and their networks keep the brain healthy—and what ha
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
 
-<script type="module">
-  import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.js';
-  import PhotoSwipeDynamicCaption from 'https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.esm.js';
+<!-- UMD version for compatibility with GitHub Pages -->
+<script src="https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.umd.min.js"></script>
+<script src="https://unpkg.com/photoswipe@5/dist/photoswipe.umd.min.js"></script>
+<script src="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.umd.min.js"></script>
 
+<script>
+  // Use the global PhotoSwipeLightbox and PhotoSwipeDynamicCaption from UMD builds
   const lightbox = new PhotoSwipeLightbox({
     gallery: '.my-gallery',
     children: 'a',
-    pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js')
+    pswpModule: PhotoSwipe
   });
 
-  // Attach caption plugin
-  const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
-    type: 'auto',  // auto: prefers data-caption, fallback to alt
+  new PhotoSwipeDynamicCaption(lightbox, {
+    type: 'auto',
     captionContent: (slide) => slide.data.caption || slide.data.alt
   });
 
