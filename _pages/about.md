@@ -15,55 +15,55 @@ We study how glial cells and their networks keep the brain healthy—and what ha
 
 <div class="my-gallery">
 
-  <a href="/files/gallery/3_NINDS3.png" 
+  <a href="files/gallery/3_NINDS3.png" 
      data-pswp-width="800" 
      data-pswp-height="800" 
-     data-caption="caption">
-    <img src="/files/gallery/3_NINDS3.png" alt="A starry beach within — the marmoset hippocampus, where astrocytes (gold) shimmer like stars over a sandy shore, and myelin waves (blue) ripple through the sea of memory.">
+     data-caption="A starry beach within — the marmoset hippocampus, where astrocytes (gold) shimmer like stars over a sandy shore, and myelin waves (blue) ripple through the sea of memory.">
+    <img src="files/gallery/3_NINDS3.png" alt="A starry beach within — the marmoset hippocampus, where astrocytes (gold) shimmer like stars over a sandy shore, and myelin waves (blue) ripple through the sea of memory.">
   </a>
   
-  <a href="/files/gallery/4_NINDS4.png" 
+  <a href="files/gallery/4_NINDS4.png" 
      data-pswp-width="800" 
      data-pswp-height="800" 
      data-caption="caption">
-    <img src="/files/gallery/4_NINDS4.png" alt="A universe of renewal — In the marmoset optic nerve, lysosomes swirl like dying stars, breaking down remnants to clear the old for new.">
+    <img src="files/gallery/4_NINDS4.png" alt="A universe of renewal — In the marmoset optic nerve, lysosomes swirl like dying stars, breaking down remnants to clear the old for new.">
   </a>
   
   
-  <a href="/files/gallery/1_NINDS.png" 
+  <a href="files/gallery/1_NINDS.png" 
      data-pswp-width="800" 
      data-pswp-height="800" 
      data-caption="caption">
-    <img src="/files/gallery/1_NINDS.png" 
+    <img src="files/gallery/1_NINDS.png" 
          alt="An ancient Chinese character meets American pop art, by way of single cells — A 13th-century BC oracle bone script of a pig (upper left) gradually transformed into the modern Chinese pictogram 豕 (shǐ) (bottom right), a homonym of “history.” Strikingly, its form echoes a contemporary portrait of 250,000 marmoset neurons (bottom left), mapped by single-nucleus RNA sequencing and distilled through a dimension-reduction algorithm (UMAP). Across millennia, language and biology converge in a shared visual rhyme — from oracle bones to single cells..
 ">
   </a>
 
-  <a href="/files/gallery/2_NINDS2.png" 
+  <a href="files/gallery/2_NINDS2.png" 
      data-pswp-width="820" 
      data-pswp-height="447" 
      data-caption="caption">
-    <img src="/files/gallery/2_NINDS2.png" alt="Marmoset brain with multiple sclerosis–like lesions in the white matter, visualized by RNA abundance (left) and RNA similarity (right). The mirrored pattern resembles the face of a wild boar, where the lesions appear as eyes, the caudate as the nose, and the hippocampus as the mouth.">
+    <img src="files/gallery/2_NINDS2.png" alt="Marmoset brain with multiple sclerosis–like lesions in the white matter, visualized by RNA abundance (left) and RNA similarity (right). The mirrored pattern resembles the face of a wild boar, where the lesions appear as eyes, the caudate as the nose, and the hippocampus as the mouth.">
   </a>
   
-  <a href="/files/gallery/7_NINDS7.png" 
+  <a href="files/gallery/7_NINDS7.png" 
      data-pswp-width="800" 
      data-pswp-height="800" 
      data-caption="caption">
-    <img src="/files/gallery/7_NINDS7.png" alt="">
+    <img src="files/gallery/7_NINDS7.png" alt="">
   </a>
-  <a href="/files/gallery/5_NINDS5.png" 
+  <a href="files/gallery/5_NINDS5.png" 
      data-pswp-width="800" 
      data-pswp-height="800" 
      data-caption="caption">
-    <img src="/files/gallery/5_NINDS5.png" alt="Manuscripts of the cell — In cancer nuclei (blue), nuclear speckles (magenta) glow as scribes of pre-mRNA, drafting and redrafting the script of life.">
+    <img src="files/gallery/5_NINDS5.png" alt="Manuscripts of the cell — In cancer nuclei (blue), nuclear speckles (magenta) glow as scribes of pre-mRNA, drafting and redrafting the script of life.">
   </a>
  
-  <a href="/files/gallery/6_NINDS6.png" 
+  <a href="files/gallery/6_NINDS6.png" 
      data-pswp-width="800" 
      data-pswp-height="800" 
      data-caption="caption">
-    <img src="/files/gallery/6_NINDS6.png" alt="Astrocytes flare in gold around inflammed blood vessels, resembling meteors carving paths across a starry night sky of nuclei.">
+    <img src="files/gallery/6_NINDS6.png" alt="Astrocytes flare in gold around inflammed blood vessels, resembling meteors carving paths across a starry night sky of nuclei.">
   </a>
   
 
