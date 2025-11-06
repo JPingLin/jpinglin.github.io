@@ -11,9 +11,6 @@ We study how glial cells and their networks keep the brain healthy—and what ha
 <h2>Art of Science</h2>
 
 <div class="my-gallery">
-  <a href="files/gallery/4_NINDS4.png" data-pswp-width="800" data-pswp-height="800" data-caption="Sample Caption">
-    <img src="files/gallery/4_NINDS4.png" alt="nothing else" />
-  </a>
 <a href="files/gallery/3_NINDS3.png" 
      data-pswp-width="800" 
      data-pswp-height="800" 
