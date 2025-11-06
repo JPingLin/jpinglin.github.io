@@ -8,35 +8,13 @@ collection: "nav"
 
 We study how glial cells and their networks keep the brain healthy—and what happens when these systems break down in development, aging, and inflammation. Right now, we are investigating how white matter dynamics shape glial function in preclinical models of multiple sclerosis. Combining neuroimaging, digital histopathology, and spatial omics, and to perform cross-species comparisons, we aim to uncover the mechanisms that drive myelin damage and repair, paving the way for better diagnosis and treatment of brain disorders.
 
-<div class="my-gallery">
-  <a href="files/gallery/4_NINDS4.png" data-pswp-width="800" data-pswp-height="800" data-caption="Sample Caption">
-    <img src="files/gallery/4_NINDS4.png" alt="Sample Caption" />
-  </a>
-</div>
-<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
-<link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
-<script src="https://unpkg.com/photoswipe@5.4.4/dist/umd/photoswipe-lightbox.umd.min.js"></script>
-<script src="https://unpkg.com/photoswipe@5.4.4/dist/umd/photoswipe.umd.min.js"></script>
-<script src="https://unpkg.com/photoswipe-dynamic-caption-plugin@1.2.7/dist/photoswipe-dynamic-caption-plugin.umd.min.js"></script>
-<script>
-  const lightbox = new PhotoSwipeLightbox({
-    gallery: '.my-gallery',
-    children: 'a',
-    pswpModule: PhotoSwipe
-  });
-  new PhotoSwipeDynamicCaption(lightbox, {
-    type: 'auto',
-    captionContent: (slide) => slide.data.caption || slide.data.alt
-  });
-  lightbox.init();
-</script>
-
-
 <h2>Art of Science</h2>
 
 <div class="my-gallery">
-
-  <a href="files/gallery/3_NINDS3.png" 
+  <a href="files/gallery/4_NINDS4.png" data-pswp-width="800" data-pswp-height="800" data-caption="Sample Caption">
+    <img src="files/gallery/4_NINDS4.png" alt="nothing else" />
+  </a>
+<a href="files/gallery/3_NINDS3.png" 
      data-pswp-width="800" 
      data-pswp-height="800" 
      data-caption="A starry beach within — the marmoset hippocampus, where astrocytes (gold) shimmer like stars over a sandy shore, and myelin waves (blue) ripple through the sea of memory.">
@@ -88,36 +66,28 @@ We study how glial cells and their networks keep the brain healthy—and what ha
   </a>
   
 
-  
+	
 </div>
-
-
-
-<!-- PhotoSwipe v5 core + lightbox -->
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
-
-<!-- UMD version for compatibility with GitHub Pages -->
 <script src="https://unpkg.com/photoswipe@5.4.4/dist/umd/photoswipe-lightbox.umd.min.js"></script>
 <script src="https://unpkg.com/photoswipe@5.4.4/dist/umd/photoswipe.umd.min.js"></script>
 <script src="https://unpkg.com/photoswipe-dynamic-caption-plugin@1.2.7/dist/photoswipe-dynamic-caption-plugin.umd.min.js"></script>
-
-
 <script>
-  // Use the global PhotoSwipeLightbox and PhotoSwipeDynamicCaption from UMD builds
   const lightbox = new PhotoSwipeLightbox({
     gallery: '.my-gallery',
     children: 'a',
     pswpModule: PhotoSwipe
   });
-
   new PhotoSwipeDynamicCaption(lightbox, {
     type: 'auto',
     captionContent: (slide) => slide.data.caption || slide.data.alt
   });
-
   lightbox.init();
 </script>
+
+
+
 
 
 <h2> 
