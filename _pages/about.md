@@ -77,9 +77,10 @@ We study how glial cells and their networks keep the brain healthy—and what ha
 <link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
 
 <!-- UMD version for compatibility with GitHub Pages -->
-<script src="https://app.unpkg.com/photoswipe@5.4.4/files/dist/umd/photoswipe-lightbox.umd.min.js"></script>
-<script src="https://app.unpkg.com/photoswipe@5.4.4/files/dist/umd/photoswipe.umd.min.js"></script>
-<script src="https://app.unpkg.com/photoswipe-dynamic-caption-plugin@1.2.7/files/dist/photoswipe-dynamic-caption-plugin.umd.min.js"></script>
+<script src="https://unpkg.com/photoswipe@5.4.4/dist/umd/photoswipe-lightbox.umd.min.js"></script>
+<script src="https://unpkg.com/photoswipe@5.4.4/dist/umd/photoswipe.umd.min.js"></script>
+<script src="https://unpkg.com/photoswipe-dynamic-caption-plugin@1.2.7/dist/photoswipe-dynamic-caption-plugin.umd.min.js"></script>
+
 
 <script>
   // Use the global PhotoSwipeLightbox and PhotoSwipeDynamicCaption from UMD builds
