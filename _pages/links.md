@@ -39,6 +39,3 @@ coming soon...
 {% for post in site.links %}  
 {% include archive-single.html %}   
 {% endfor %}
-
-
-
