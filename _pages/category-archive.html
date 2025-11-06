@@ -5,6 +5,29 @@ title: "by Category"
 author_profile: true
 ---
 
+<div class="my-gallery">
+  <a href="files/gallery/4_NINDS4.png" data-pswp-width="800" data-pswp-height="800" data-caption="Sample Caption">
+    <img src="files/gallery/4_NINDS4.png" alt="Sample Caption" />
+  </a>
+</div>
+<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
+<link rel="stylesheet" href="https://unpkg.com/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css">
+<script src="https://unpkg.com/photoswipe@5.4.4/dist/umd/photoswipe-lightbox.umd.min.js"></script>
+<script src="https://unpkg.com/photoswipe@5.4.4/dist/umd/photoswipe.umd.min.js"></script>
+<script src="https://unpkg.com/photoswipe-dynamic-caption-plugin@1.2.7/dist/photoswipe-dynamic-caption-plugin.umd.min.js"></script>
+<script>
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: '.my-gallery',
+    children: 'a',
+    pswpModule: PhotoSwipe
+  });
+  new PhotoSwipeDynamicCaption(lightbox, {
+    type: 'auto',
+    captionContent: (slide) => slide.data.caption || slide.data.alt
+  });
+  lightbox.init();
+</script>
+
 
 
 
