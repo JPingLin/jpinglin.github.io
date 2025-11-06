@@ -97,7 +97,7 @@ We study how glial cells and their networks keep the brain healthy—and what ha
 
 
 <h2> 
-	gLINa Lab footprint ...
+	gLINa Lab footprints ...
 		<i class="fa-solid fa-shoe-prints">...</i>
 
 </h2>
