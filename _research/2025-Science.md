@@ -11,7 +11,7 @@ tags:
 permalink: /research/2025-Science
 excerpt: 'Glial-vascular-immune secretory networks form distinctive microenvironments at the brain barriers in marmosets during neuroinflammation'
 date: 2025-02-28
-venue: 'Nature Communications'
+venue: 'Science'
 paperurl: '/files/publication/Lin2025_Science.pdf'
 citation: '<strong>Lin JP*</strong>, Brake A, Donadieu M, Lee A, Smith G, Hu K, Nair G, Kawaguchi R, Sati P, Geschwind DH, Jacobson
 S, Schafer DP, Reich DS*. <a href="https://www.science.org/stoken/author-tokens/ST-2468/full">Science 2025 Feb</a>'
