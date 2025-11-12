@@ -53,7 +53,8 @@ author_profile: true
 
       <h2>Honorary Member #2: Ginger Smith</h2>
       <h3>Now: Postbaccalaureate Trainee, NINDS, NIH</h3>
-    <p> </p>
+    <p> Ginger earned her undergraduate degree in Neuroscience from the University of Virginia in 2023 and is currently a post-baccalaureate research fellow in Dr. Daniel Reich’s lab at NIH. Working closely with Dr. Lin for the past two years, her project aims to characterize the diverse functions of glial cells during myelin deterioration and repair in a marmoset model of multiple sclerosis. Ginger is an avid lover of all things glia, and is currently applying to Neuroscience PhD programs to continue investigating glial cells in neurodevelopment and neurological diseases. 
+    Outside of the lab, she loves to take long walks, go to concerts with friends, and research fashion trends.</p>
 
   </div>
 </div>
