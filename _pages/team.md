@@ -22,7 +22,7 @@ author_profile: true
       <h2>PI: Jing-Ping Lin, PhD</h2>
       <h3>Assistant professor, University of Arizona</h3>
      <p> Her career path began with asking about how embryonic cells live, evolved into asking about how cancer cells die, and now brings her to ask about how injured neuroglial cells repair. She is drawn to solving these puzzles, which led her to use multimodal approaches to study the cellular functions in disease and health across species. </p>
-     <p> she enjoys turning trash into crafts, yarn into chaos, her body into dance, and questionable experiences into comedy. </p>
+     <p> Outside of the lab, she enjoys turning trash into crafts, yarn into chaos, her body into dance, and questionable experiences into comedy. </p>
   </div>
 </div>
 
