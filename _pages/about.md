@@ -6,7 +6,7 @@ collection: "nav"
 ---
 <img src="/files/gallery/0_Banner.png" alt="some cool pic" style="max-width:100%; height:auto;">
 
-We study how glial cells and their networks keep the brain healthy—and what happens when these systems break down in development, aging, and inflammation. Right now, we are investigating how white matter dynamics shape glial function in preclinical models of multiple sclerosis. Combining neuroimaging, digital histopathology, and spatial omics, and to perform cross-species comparisons, we aim to uncover the mechanisms that drive myelin damage and repair, paving the way for better diagnosis and treatment of brain disorders.
+We study how glial cells and their networks keep the brain healthy—and what happens when these systems break down in development, aging, and inflammation. Right now, we are investigating how white matter dynamics shape glial function in preclinical models of multiple sclerosis. Combining neuroimaging, digital histopathology, and spatial omics to perform cross-species comparisons, we aim to uncover the mechanisms that drive myelin damage and repair, paving the way for better diagnosis and treatment of brain disorders.
 
 <h2>Art of Science</h2>
 
