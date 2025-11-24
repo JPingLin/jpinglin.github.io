@@ -34,7 +34,7 @@ author:
   cv               : "/files/biosketch/Lin_CV_20250829.pdf"
 
   # Academic websites
-  academia         : "https://physiology.arizona.edu/person/jing-ping-lin-phd"
+  academia         : #"https://physiology.arizona.edu/person/jing-ping-lin-phd"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ETf_PcEAAAAJ&hl=en"
   inspire-hep      : # URL
