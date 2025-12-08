@@ -38,7 +38,8 @@ author_profile: true
 
       <h2>Honorary Member #1: Alexis Brake</h2>
       <h3>Now: PhD candidate, University of Miami Medical Scientist Training Program</h3>
-    <p> </p>
+    <p> After graduating with her bachelor’s degree in biomedical engineering from the University of Florida in 2020, Alexis joined Dr. Daniel Reich’s lab at the NIH as a post-baccalaureate research fellow. During this time, she worked alongside Dr. Lin to study MS-like lesions at different stages of demyelination to uncover the interplay of immune and CNS-resident cell types during lesion development and repair. Now a fourth-year student in the University of Miami Medical Scientist Training Program, Alexis’s thesis research focuses on intracellular cholesterol homeostasis in oligodendrocytes during demyelination and myelin repair. After graduating, Alexis plans to apply to neurology residency and ultimately pursue a career in neuroimmunology as a physician-scientist.</p>
+ <p>Outside of the lab, Alexis enjoys running and all of the “grandma” hobbies: doting on her two cats, baking sourdough, tending to her balcony garden, and crocheting.</p>
   </div>
 </div>
 
