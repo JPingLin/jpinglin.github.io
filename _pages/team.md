@@ -30,6 +30,27 @@ author_profile: true
 
 <div class="about-section">
   <div class="hover-img">
+    <img src="/files/headshot/0.3_TingYuChen_grounded.png" alt="grounded">
+    <img src="/files/headshot/0.3_TingYuChen_excited.png" alt="excited">
+  </div>
+
+  <div class="about-text">
+
+      <h2>gLINa Lab Member #1: Ting-Yu Chen</h2>
+      <h3>Now: Lab Coordinator, University of Arizona</h3>
+    <p> Ting-Yu earned her master’s degree in life sciences from National Taiwan University, where she studied how dietary and innate immune factors drive renal inflammation in mouse models of chronic kidney disease and gained hands-on experience in NK and T cell functional analyses.
+
+Now joining Dr. Lin’s lab, she turns her attention to the nervous system, investigating how injured neuroglial cells repair myelin in multiple sclerosis, with a particular focus on BCAS1-positive oligodendrocytes and how the efficiency of myelin repair changes across lesion progression and recovery.</p>
+ <p>Outside of the lab, she’s enjoys hunting for good desserts, is a devoted SONE for longer than she’d like to admit, and often finds herself happily lost in her own daydreams.</p>
+  </div>
+</div>
+
+<br>
+
+<br>
+
+<div class="about-section">
+  <div class="hover-img">
     <img src="/files/headshot/0.1_AlexisBrake_grounded.png" alt="grounded">
     <img src="/files/headshot/0.1_AlexisBrake_excited.png" alt="excited">
   </div>
