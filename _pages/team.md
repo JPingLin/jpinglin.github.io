@@ -40,7 +40,7 @@ author_profile: true
       <h3>Now: Lab Coordinator, University of Arizona</h3>
     <p> Ting-Yu earned her master’s degree in life sciences from National Taiwan University, where she studied how dietary and innate immune factors drive renal inflammation in mouse models of chronic kidney disease and gained hands-on experience in NK and T cell functional analyses.
 
-Now joining Dr. Lin’s lab, she turns her attention to the nervous system, investigating how injured neuroglial cells repair myelin in multiple sclerosis, with a particular focus on BCAS1-positive oligodendrocytes and how the efficiency of myelin repair changes across lesion progression and recovery.</p>
+Now joining Dr. Lin’s lab, she turns her attention to the nervous system, investigating how injured neuroglial cells repair myelin in multiple sclerosis, with a particular focus on BCAS1-positive glia and how the efficiency of myelin repair changes across lesion progression and recovery.</p>
  <p>Outside of the lab, she’s enjoys hunting for good desserts, is a devoted SONE for longer than she’d like to admit, and often finds herself happily lost in her own daydreams.</p>
   </div>
 </div>
