@@ -58,13 +58,9 @@ Now joining Dr. Lin’s lab, she turns her attention to the nervous system, inve
     <p> 
     Rishi is a rising third-year undergraduate joined Dr. Lin's lab as a Undergraduate Biology Research Program (UBRP) student. Over Summer 2026, Rishi is primarily conducting dry lab analysis to explore how different brain microenvironments vary at the molecular level. Using existing large-scale gene expression datasets, he assists with organizing and analyzing spatial patterns of gene activity to better understand how cellular communities are structured across brain regions. To complement the computational work, Rishi is engaging in histopathological and biomolecular experiments to gain a balanced introduction to data-driven neuroscience research alongside hands-on laboratory experience.
     </p> Outside of lab, he is actively involved in a variety of student-led initiatives on campus, including Arizona Model United Nations and Cooking on Campus. Passionate about neuroscience education and outreach, he serves as a Neuroscience and College of Science Ambassador and founded the Southern Arizona Brain Bee chapter, where he spearheads efforts to engage local high school students in neuroscience. 
-    <p>
-   
-    </p>
+
   </div>
 </div>
-
-
 
 <br>
 
