@@ -56,11 +56,30 @@ Now joining Dr. Lin’s lab, she turns her attention to the nervous system, inve
       <h2>Summer Student: Rishi R. Suresh</h2>
       <h3>Now: B.S. in Neuroscience and Cognitive Science, University of Arizona</h3>
     <p> 
-    Rishi is a rising third-year undergraduate joined Dr. Lin's lab as a Undergraduate Biology Research Program (UBRP) student. Over Summer 2026, Rishi is primarily conducting dry lab analysis to explore how different brain microenvironments vary at the molecular level. Using existing large-scale gene expression datasets, he assists with organizing and analyzing spatial patterns of gene activity to better understand how cellular communities are structured across brain regions. To complement the computational work, Rishi is engaging in histopathological and biomolecular experiments to gain a balanced introduction to data-driven neuroscience research alongside hands-on laboratory experience.
-    </p> Outside of lab, he is actively involved in a variety of student-led initiatives on campus, including Arizona Model United Nations and Cooking on Campus. Passionate about neuroscience education and outreach, he serves as a Neuroscience and College of Science Ambassador and founded the Southern Arizona Brain Bee chapter, where he spearheads efforts to engage local high school students in neuroscience. 
+    Rishi is a rising third-year undergraduate joined Dr. Lin's lab as a Undergraduate Biology Research Program (UBRP) student. Over Summer 2026, Rishi is primarily conducting dry lab analysis to explore how different brain microenvironments vary at the molecular level. Using existing large-scale gene expression datasets, he assists with organizing and analyzing spatial patterns of gene activity to better understand how cellular communities are structured across brain regions. To complement the computational work, Rishi is engaging in histopathological and biomolecular experiments to gain a balanced introduction to data-driven neuroscience research alongside hands-on laboratory experience. </p> 
+    <p> Outside of lab, he is actively involved in a variety of student-led initiatives on campus, including Arizona Model United Nations and Cooking on Campus. Passionate about neuroscience education and outreach, he serves as a Neuroscience and College of Science Ambassador and founded the Southern Arizona Brain Bee chapter, where he spearheads efforts to engage local high school students in neuroscience. </p> 
 
   </div>
 </div>
+
+<div class="about-section">
+  <div class="hover-img">
+    <img src="/files/headshot/0.5_SrbuiAzarapetian_grounded.png" alt="grounded">
+    <img src="/files/headshot/0.5_SrbuiAzarapetian_excited.png" alt="excited">
+  </div>
+
+  <div class="about-text">
+
+      <h2>Rotation Student: Srbui Azarapetian</h2>
+      <h3>Now: MD/PhD student, University of Arizona</h3>
+    <p>Srbui earned her BS in Neuroscience with a minor in Biomedical Research from University of California, Los Angeles. Her previous work in the Carmichael and Llorente labs at UCLA entailed studying the behavioral and cellular mechanisms of ischemic stroke and functional recovery in a mouse model with various therapeutic interventions, including glial stem cell therapies. As an MD/PhD student, she is now interested in studying the role of glia in neurodegenerative disease and aging and also exploring possible therapies. </p> 
+    <p>Outside of the lab, she likes to listen to music, photograph on film, hike and spend time with her friends and family.</p> 
+
+  </div>
+</div>
+
+
+
 
 <br>
 
