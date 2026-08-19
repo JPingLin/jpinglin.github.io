@@ -13,8 +13,8 @@ layout: single
 > Building the space with THE off-menu postdoc & a GW 20...!
 
 <div>
-<img src="/files/posts/LabBuilding001.jpeg" alt="LabBuilding.jpeg">
-<img src="/files/posts/LabBuilding002.jpeg" alt="LabBuilding.jpeg">
-<img src="/files/posts/LabBuilding003.jpeg" alt="LabBuilding.jpeg">
+<img src="/files/posts/LabBuilding001.png" alt="LabBuilding">
+<img src="/files/posts/LabBuilding002.png" alt="LabBuilding">
+<img src="/files/posts/LabBuilding003.png" alt="LabBuilding">
 
 </div>
