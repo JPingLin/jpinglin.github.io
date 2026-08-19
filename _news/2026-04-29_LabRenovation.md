@@ -9,12 +9,9 @@ tags:
   - flat-pack hell
 layout: single
 ---
-
-> Building the space with THE off-menu postdoc & a GW 20...!
-
-<div>
 <img src="/files/posts/LabBuilding001.png" alt="LabBuilding">
 <img src="/files/posts/LabBuilding002.png" alt="LabBuilding">
 <img src="/files/posts/LabBuilding003.png" alt="LabBuilding">
+> Building the space with THE off-menu postdoc & a GW 20...!
 
-</div>
+
