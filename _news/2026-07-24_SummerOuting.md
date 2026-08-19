@@ -11,6 +11,6 @@ tags:
 layout: single
 ---
 > Srbui's last day of rotation & celebrate the summer with big pile of shaved ice!
-<div>
+
 <img src="/files/posts/LabBuilding006.jpeg" alt="LabBuilding.jpeg">
-</div>
+
