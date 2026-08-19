@@ -10,8 +10,12 @@ tags:
 layout: single
 ---
 
+<p>
 > Lab warming party over great talks, whole deaprtment is invited!
-
-<a href="https://satijalab.org/scgd26/">Single Cell Genomics Day: A (Virtual) Practical Workshop</a>
 <img src="/files/posts/LabBuilding004.png" alt="LabBuilding">
+
+</p>
+<a href="https://satijalab.org/scgd26/">Single Cell Genomics Day: A (Virtual) Practical Workshop</a>
+
+
 
